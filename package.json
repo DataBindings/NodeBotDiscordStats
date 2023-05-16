@@ -1,0 +1,29 @@
+{
+  "name": "nodebotdiscordstats",
+  "version": "1.0.0",
+  "description": "Discord bot to track various stats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataBindings/NodeBotDiscordStats.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node",
+    "Discord",
+    "Stats"
+  ],
+  "author": "DataBindings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataBindings/NodeBotDiscordStats/issues"
+  },
+  "homepage": "https://github.com/DataBindings/NodeBotDiscordStats#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "eslint": "^8.40.0"
+  }
+}
